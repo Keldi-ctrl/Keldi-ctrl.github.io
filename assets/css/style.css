@@ -324,7 +324,7 @@ section .about {
   content: "";
   display: block;
   width: 100%;
-  height: 470px;
+  height: 100%;
   background-color: rgba(0, 0, 0, 0.8);
 }
 .section_of-skills > .container > h3 {
